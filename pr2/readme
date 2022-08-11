@@ -1,4 +1,4 @@
-# 파이스파크르 이용해 페이지랭크를 구현한다
+# 파이스파크를 이용해 페이지랭크를 구현한다
 - 1.eigenvector_vs_poweriteration
 두가지 방법을 이용해 구해보고 그에 따른 time plot으 통해 어떤게 더 좋은지 볼 수 있다.
 - 2.naive algorithm
