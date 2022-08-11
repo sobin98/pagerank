@@ -1,1 +1,9 @@
-파이스파크르 이용해 페이지랭크를 구현한다
+# 파이스파크르 이용해 페이지랭크를 구현한다
+- 1.eigenvector_vs_poweriteration
+두가지 방법을 이용해 구해보고 그에 따른 time plot으 통해 어떤게 더 좋은지 볼 수 있다.
+- 2.naive algorithm
+인풋데이터에 대해 페이지랭크값을 구한다. 맵리듀스의 알고리즘 소개와 구현, 결과값을 볼 수 있다.
+- 3.personalized_pagerank
+bias라는 새로운 개념을 주어 개인화된 페이지랭크값을 구할 수 있다.
+- 4.final_result
+random teleport와 bias를 줘 topic speicific teleport를 했을때 차이점에 대한 결과를 볼 수 있다.
